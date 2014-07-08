@@ -21,7 +21,9 @@ Then add your edits to this file. Run `git add 02-goals.md
 ##Joe
 
 ##Jon Siker
-
+* learn all topics of course to at least an intermediate level, if not advanced
+* become a faster typist, better touch typist
+* feel comfortable learning new languages with the knowledge base i'll have developed in this course
 ##Maddalina
 
 ##Sasha
