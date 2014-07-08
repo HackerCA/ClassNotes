@@ -19,6 +19,8 @@ Then add your edits to this file. Run `git add 02-goals.md
 ##Jay-Ar
 
 ##Joe
+* acquire certain k-r4d 13370 programming skillz
+* adding jQuery experience to my JavaScript 
 
 ##Jon Siker
 
