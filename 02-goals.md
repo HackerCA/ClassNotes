@@ -24,7 +24,4 @@ Then add your edits to this file. Run `git add 02-goals.md
 
 ##Maddalina
 
-##Sasha
-
-
-
+##Shannon Smith
