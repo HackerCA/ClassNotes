@@ -33,27 +33,27 @@ Then add your edits to this file. Run `git add 02-goals.md
 
 ##Shannon 
 
-+ Front End Development
-    +Responsive 
-    +JavaScript
-    +Advanced Design
-        +CSS3
-        +HTML5
+* Front End Development
+    *Responsive 
+    *JavaScript
+    *Advanced Design
+        *CSS3
+        *HTML5
 
-+ Back End Development
-    +Understand different parts
-    +Introduced to at least one language
+* Back End Development
+    *Understand different parts
+    *Introduced to at least one language
 
-+ Career
-    +Freelance "roadmap"
-    +How to get position at company/start up
+* Career
+    *Freelance "roadmap"
+    *How to get position at company/start up
 
-+ Projects
-    +Portfolio & blog 
-        +responsive
-        +add Javascript
-        +add to portfolio
-    +Website Idea
-        +concept mapped out with skillset
-    +Mobile Application
-        +create, develop, deploy
+* Projects
+    *Portfolio & blog 
+        *responsive
+        *add Javascript
+        *add to portfolio
+    *Website Idea
+        *concept mapped out with skillset
+    *Mobile Application
+        *create, develop, deploy
