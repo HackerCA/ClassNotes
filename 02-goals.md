@@ -18,6 +18,14 @@ Then add your edits to this file. Run `git add 02-goals.md
 * learn how to make an app using angularJS and parse for the backend
 
 ##Jay-Ar
+Hello
+=========
+
+My goals for this class are to:
+
+* Juggle Doge memes and Lol Cats.
+* I chop real good *JavaScript* ninja.
+* Do flips like a sumo wrestler on **rice crack**.
 
 ##Joe
 * acquire certain k-r4d 13370 programming skillz
