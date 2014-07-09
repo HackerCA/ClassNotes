@@ -53,7 +53,7 @@ Then add your edits to this file. Run `git add 02-goals.md
         * responsive
         * add Javascript
         * add to portfolio
-    *Website Idea
+    * Website Idea
         * concept mapped out with skillset
-    *Mobile Application
+    * Mobile Application
         * create, develop, deploy
