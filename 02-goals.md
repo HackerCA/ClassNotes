@@ -30,10 +30,10 @@ Then add your edits to this file. Run `git add 02-goals.md
 * feel comfortable learning new languages with the knowledge base i'll have developed in this course
 
 ##Maddalena
-*improve my critical thinking skills
-*learn how to type (lol yikes!) 
-*build personal projects
-*have a solid foundation to eventually become employable as a front end developer
+* improve my critical thinking skills
+* learn how to type (lol yikes!) 
+* build personal projects
+* have a solid foundation to eventually become employable as a front end developer
 
 
 
