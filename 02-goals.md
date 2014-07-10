@@ -12,6 +12,9 @@ Then add your edits to this file. Run `git add 02-goals.md
  *Make cake
  *Be Awesome!
 ##Gyan
+* Rebuild bollymoods.net in Backbone.js-AJAX-REST-MongoDB-node.js
+* Learn JS-Backbone.js-node.js. Responsive design. Build apps for multi-screen
+* Make good friends with this H:CA1 developer community
 
 ##Harry Moreno
 * learn how to communicate better
