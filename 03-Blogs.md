@@ -15,3 +15,6 @@ Please submit edits with links to your github pages blogs ...
 
 ##Shannon Smith
 [sfdevgirl.github.io/MyBlog/](http://sfdevgirl.github.io/MyBlog/)
+
+##Joe Coviello
+[nyteksf.github.io/myBlog/](http://nyteksf.github.io/myBlog/)
