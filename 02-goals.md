@@ -19,7 +19,7 @@ Then add your edits to this file. Run `git add 02-goals.md
 
 ##Jay-Ar
 Hello
-----------
+-----------
 
 My goals for this class are to:
 
