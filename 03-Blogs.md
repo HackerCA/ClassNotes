@@ -10,4 +10,5 @@ Please submit edits with links to your github pages blogs ...
 
 ##Jay-Ar Jamon
 [codeshi.com](http://codeshi.com)
+
 [codeshi.github.io/myBlog](http://codeshi.github.io/myBlog)
