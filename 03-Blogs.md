@@ -12,3 +12,6 @@ Please submit edits with links to your github pages blogs ...
 [codeshi.com](http://codeshi.com)
 
 [codeshi.github.io/myBlog](http://codeshi.github.io/myBlog)
+
+##Shannon Smith
+[sfdevgirl.github.io/MyBlog/](http://sfdevgirl.github.io/MyBlog/)
