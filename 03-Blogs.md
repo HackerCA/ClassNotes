@@ -18,3 +18,6 @@ Please submit edits with links to your github pages blogs ...
 
 ##Joe Coviello
 [nyteksf.github.io/myBlog/](http://nyteksf.github.io/myBlog/)
+
+##Jon Siker 
+[http://jsiker.github.io/](http://jsiker.github.io/)
